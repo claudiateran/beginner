@@ -1,3 +1,2 @@
 # beginner
-Comenzando en el mundo de la bioinformatica
-cambio de prueba
+buenas buenas tardeees como le vaaaa
